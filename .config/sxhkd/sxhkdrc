@@ -24,7 +24,7 @@ super + shift + e
 super + w
 	webby | xargs -r $BROWSER
 super + shift + w
-	$BROWSER
+	$TERMINAL -e w3m duckduckgo.com
 super + shift + g
 	gimp
 
@@ -35,10 +35,12 @@ super + Scroll_Lock
 	killall screenkey || screenkey
 super + Insert
 	showclip
-super + shift + x
+super + BackSpace
 	prompt "Shutdown computer?" "sudo -A shutdown -h now"
 super + shift + BackSpace
 	prompt "Reboot computer?" "sudo -A shutdown -r now"
+super + shift + x
+	mpc pause; pauseallmpv; i3lock -e -f -u -p win -i /home/leonsch/i3lockbg.png; xset dpms force off
 super + x
 	mpc pause; pauseallmpv; i3lock -e -f -c 1d2021; xset dpms force off
 XF86Launch1

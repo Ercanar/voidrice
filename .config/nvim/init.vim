@@ -26,13 +26,25 @@ set mouse=a
 set nohlsearch
 set clipboard+=unnamedplus
 
+set tabstop=4
+set shiftwidth=4
+
+inoremap " ""<Esc>i
+inoremap ' ''<Esc>i
+inoremap ( ()<Esc>i
+inoremap [ []<Esc>i
+inoremap <> <><Esc>i
+inoremap {<CR> {<CR><CR>}<Esc>ki<Tab>
+inoremap /** /**<space><space>*/<Esc>2hi
+inoremap // //<space>
+
 " Some basics:
 	nnoremap c "_c
 	set nocompatible
 	filetype plugin on
 	syntax on
 	set encoding=utf-8
-	set number relativenumber
+	set number "relativenumber
 " Enable autocompletion:
 	set wildmode=longest,list,full
 " Disables automatic commenting on newline:
@@ -96,7 +108,7 @@ set clipboard+=unnamedplus
 	autocmd BufRead,BufNewFile /tmp/neomutt* :Goyo \| set bg=light
 
 " Automatically deletes all trailing whitespace on save.
-	autocmd BufWritePre * %s/\s\+$//e
+	" autocmd BufWritePre * %s/\s\+$//e
 
 " When shortcut files are updated, renew bash and vifm configs with new material:
 	autocmd BufWritePost ~/.config/bmdirs,~/.config/bmfiles !shortcuts
