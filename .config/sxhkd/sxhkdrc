@@ -24,7 +24,7 @@ super + shift + e
 super + w
 	webby | xargs -r $BROWSER
 super + shift + w
-	$TERMINAL -e w3m duckduckgo.com
+	$TERMINAL -e w3m duckduckgo.com/lite
 super + shift + g
 	gimp
 
