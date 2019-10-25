@@ -12,18 +12,18 @@ label=🎼
 interval=once
 signal=11
 
-[news]
-label=📰
-interval=once
-signal=6
+#[news]
+#label=📰
+#interval=once
+#signal=6
 
 #[iplocate]
 #interval=30
 
-[pacpackages]
-label=📦
-interval=once
-signal=8
+#[pacpackages]
+#label=📦
+#interval=once
+#signal=8
 
 [torrent]
 interval=20
@@ -33,33 +33,29 @@ signal=7
 interval=18000
 signal=5
 
-[mailbox]
-label=📬
-interval=180
-signal=12
+#[mailbox]
+#label=📬
+#interval=180
+#signal=12
 
-#[memory]
-#interval=30
-#label=🧠
+[memory]
+interval=30
+label=🧠
 
-#[cpu]
-#interval=15
-#label=💻
+[cpu]
+interval=15
+label=💻
+
+[disk]
+interval=60
+command=disk / 💽
 
 [volume]
 interval=once
 signal=10
 
-#[disk]
-#interval=60
-#command=disk /
-
-#[disk]
-#interval=60
-#command=disk /home 🏠
-
 [battery]
-command=battery BAT0
+command=battery C23B
 interval=5
 
 [clock]

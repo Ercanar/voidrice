@@ -1,0 +1,8 @@
+#!/bin/bash
+files=`ls | sort -gr | sed 's/.asciimov//g'`
+
+for i in $files; do
+	mv "$i.asciimov" "$((i+1)).asciimov"
+done
+
+cp "1.asciimov" "0.asciimov"
