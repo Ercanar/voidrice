@@ -14,7 +14,7 @@ super + n
 super + i
 	$TERMINAL -e htop
 super + y
-	$TERMINAL -e calcurse -D ~/.config/calcurse
+	$TERMINAL -e calcurse
 super + shift + a
 	$TERMINAL -e pulsemixer; pkill -RTMIN+10 i3blocks
 super + shift + c
@@ -24,12 +24,12 @@ super + shift + e
 super + w
 	webby | xargs -r $BROWSER
 super + shift + w
-	$TERMINAL -e w3m duckduckgo.com/lite
+	firefox
 super + shift + g
 	gimp
 
 # Et cetera...
-super + grave
+super + dead_circumflex
 	dmenuunicode
 super + Scroll_Lock
 	killall screenkey || screenkey
@@ -39,10 +39,9 @@ super + BackSpace
 	prompt "Shutdown computer?" "sudo -A shutdown -h now"
 super + shift + BackSpace
 	prompt "Reboot computer?" "sudo -A shutdown -r now"
-super + shift + x
-	mpc pause; pauseallmpv; i3lock -e -f -u -p win -i /home/leonsch/i3lockbg.png; xset dpms force off
 super + x
-	mpc pause; pauseallmpv; i3lock -e -f -c 1d2021; xset dpms force off
+	mpc pause; pauseallmpv; ~/scripts/lockscreen.sh
+#	mpc pause; pauseallmpv; i3lock -e -f -c 1d2021; xset dpms force off
 XF86Launch1
 	xset dpms force off
 XF86AudioMute
@@ -97,10 +96,14 @@ super + {comma,period}
 super + shift + less
 	lmc replay
 # Increase volume
+<<<<<<< Updated upstream
 super + {plus,asterisk}
+=======
+super + {plus, asterisk}
+>>>>>>> Stashed changes
 	lmc up {5,15}
 # Decrease volume
-super {_,shift +} + minus
+super + {minus, underscore}
 	lmc down {5,15}
 # Seek foward in song
 super + {_,shift +} bracketright
@@ -125,7 +128,8 @@ super + F5
 	sudo -A systemctl restart NetworkManager
 # Start torrent daemon/open interface
 super + F6
-	torwrap
+	transmission-gtk
+#	torwrap
 # toggle torrent daemon
 super + F7
 	td-toggle
@@ -144,5 +148,6 @@ super + F11
 # Network Manager interface
 super + F12
 	$TERMINAL -e sudo -A nmtui
-
-
+# Autoclicker
+super + shift + F6
+	~/scripts/autoclicker.sh
