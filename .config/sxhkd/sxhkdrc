@@ -96,11 +96,7 @@ super + {comma,period}
 super + shift + less
 	lmc replay
 # Increase volume
-<<<<<<< Updated upstream
 super + {plus,asterisk}
-=======
-super + {plus, asterisk}
->>>>>>> Stashed changes
 	lmc up {5,15}
 # Decrease volume
 super + {minus, underscore}
