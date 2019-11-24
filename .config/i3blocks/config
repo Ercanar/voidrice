@@ -33,10 +33,10 @@ signal=7
 interval=18000
 signal=5
 
-#[mailbox]
-#label=📬
-#interval=180
-#signal=12
+[mailbox]
+label=📬
+interval=180
+signal=12
 
 [memory]
 interval=30
@@ -54,9 +54,9 @@ command=disk / 💽
 interval=once
 signal=10
 
-[battery]
-command=battery C23B
-interval=5
+#[battery]
+#command=battery C23B
+#interval=5
 
 [clock]
 label=📅
