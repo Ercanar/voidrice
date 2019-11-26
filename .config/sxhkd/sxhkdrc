@@ -145,4 +145,4 @@ super + F12
 	$TERMINAL -e sudo -A nmtui
 # Autoclicker
 super + shift + F6
-	~/scripts/autoclicker.sh
+	~/.local/bin/tools/autoclicker.sh
