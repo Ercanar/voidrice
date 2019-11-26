@@ -22,9 +22,9 @@ super + shift + c
 super + shift + e
 	tutorialvids
 super + w
-	webby | xargs -r $BROWSER
+	$TERMINAL -e w3m duckduckgo.com/lite
 super + shift + w
-	firefox
+	midori
 super + shift + g
 	gimp
 
@@ -40,7 +40,9 @@ super + BackSpace
 super + shift + BackSpace
 	prompt "Reboot computer?" "sudo -A shutdown -r now"
 super + x
-	mpc pause; pauseallmpv; ~/.local/bin/tools/lockscreen.sh
+	mpc pause; pauseallmpv; xset dpms 0 0 3; lockscreen.sh && xset dpms 0 0 0
+super + shift + x
+	mpc pause; pauseallmpv; xset dpms 0 0 3; i3lock -e -f -c 1d2021 -n && xset dpms 0 0 0
 XF86Launch1
 	xset dpms force off
 XF86AudioMute
