@@ -21,12 +21,14 @@ super + shift + c
 	camtoggle
 super + shift + e
 	tutorialvids
-super + w
-	$TERMINAL -e w3m duckduckgo.com/lite
 super + shift + w
-	midori
+	firefox
 super + shift + g
 	gimp
+
+# Bluetooth
+super + c
+	bluetooth-toggle
 
 # Et cetera...
 super + dead_circumflex
