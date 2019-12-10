@@ -1,0 +1,44 @@
+#!/bin/bash
+
+DEVICE="hci0"
+BLOCKED="gesperrt"
+
+if systemctl is-active --quiet bluetooth; then # shut down bluetooth
+	sudo systemctl stop bluetooth
+	notify-send "`basename $0`" "Stopped bluetooth!"
+else # start bluetooth
+	# Get rfkill status
+	RFKILL=`rfkill -rno DEVICE,SOFT,HARD`
+
+	# Check if device doesn't exist
+	if ! echo "$RFKILL" | awk '{print $1}' | grep -q "$DEVICE"; then
+		notify-send "`basename $0`" "Bluetooth device $DEVICE not found!\nCheck RF-Kill status!"
+		exit 1
+	fi
+
+	# Check if device is softblocked
+	if echo "$RFKILL" | awk '{print $2}' | grep -q "$BLOCKED"; then
+		sudo rfkill unblock bluetooth
+		notify-send "`basename $0`" "RF-Kill was soft-blocking $DEVICE, now unblocked!"
+	fi
+
+	# Check if device is blocked
+	if echo "$RFKILL" | awk '{print $3}' | grep -q "$BLOCKED"; then
+		notify-send "`basename $0`" "Bluetooth device $DEVICE is hard-blocked by RF-Kill!"
+		exit 1
+	fi
+
+	# Load btusb if it's not already loaded
+	if ! lsmod | grep -q btusb && ! sudo modprobe -q btusb; then
+		notify-send -u critical "`basename $0`" "Critical error: Can't load btusb!"
+		exit 1
+	fi
+
+	# Start bluetooth service and enable power
+	sudo systemctl start bluetooth
+	bluetoothctl -- power on
+	notify-send "`basename $0`" "Started bluetooth!"
+
+	# Start bluetooth shell
+	$TERMINAL -e bluetoothctl
+fi
