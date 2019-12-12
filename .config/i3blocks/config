@@ -55,7 +55,7 @@ interval=once
 signal=10
 
 [battery]
-command=battery C23B
+command=battery BAT0
 interval=5
 
 [clock]

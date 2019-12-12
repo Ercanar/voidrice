@@ -2,7 +2,7 @@
 IMAGE=/tmp/lockscreen.png
 TEXT=/tmp/locktext.png
 ICON=.local/bin/tools/lockimage.png
- 
+
 scrot $IMAGE
 convert $IMAGE -scale 10% -scale 1000% -fill black -colorize 40% $IMAGE
 [ -f $TEXT ] || {
