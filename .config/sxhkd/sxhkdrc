@@ -22,8 +22,6 @@ super + shift + c
 	camtoggle
 super + shift + e
 	tutorialvids
-super + w
-	webby | xargs -r $BROWSER
 super + shift + w
 	firefox
 super + shift + g
@@ -47,6 +45,10 @@ ctrl + alt + s
 @F3
 	xdotool key greater
 
+# Bluetooth
+super + c
+	bluetooth-toggle
+
 # Et cetera...
 super + dead_circumflex
 	dmenuunicode
@@ -59,9 +61,11 @@ super + BackSpace
 super + shift + BackSpace
 	prompt "Reboot computer?" "sudo -A shutdown -r now"
 super + x
-	mpc pause; pauseallmpv; ~/.local/bin/tools/lockscreen.sh
+	mpc pause; pauseallmpv; xset dpms 0 0 3; lockscreen.sh && xset dpms 0 0 0
 super + shift + x
-	i3lock -u -i /home/ercanar/Hintergrund/Anime1/BEST.png
+    i3lock -u -i /home/ercanar/Hintergrund/Anime1/BEST.png
+
+
 XF86Launch1
 	xset dpms force off
 XF86AudioMute
@@ -166,4 +170,4 @@ super + F12
 	$TERMINAL -e sudo -A nmtui
 # Autoclicker
 super + shift + F6
-	~/scripts/autoclicker.sh
+	~/.local/bin/tools/autoclicker.sh

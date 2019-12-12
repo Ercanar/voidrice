@@ -27,17 +27,23 @@ set mouse=a
 set nohlsearch
 set clipboard+=unnamedplus
 
+" I like tabs
 set tabstop=4
 set shiftwidth=4
 
+" Auto-completion of some things
 inoremap " ""<Esc>i
 inoremap ' ''<Esc>i
 inoremap ( ()<Esc>i
 inoremap [ []<Esc>i
 inoremap <> <><Esc>i
 inoremap {<CR> {<CR><CR>}<Esc>ki<Tab>
+inoremap /* /*<space><space>*/<Esc>2hi
 inoremap /** /**<space><space>*/<Esc>2hi
 inoremap // //<space>
+
+" Insert a link to current date (used in my logbook)
+	noremap <leader>l :$read !date -I<CR>V$ypi(<Esc>$a)<Esc>0i<BS>]<Esc>0i[<Esc>
 
 " Some basics:
 	nnoremap c "_c

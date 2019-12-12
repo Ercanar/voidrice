@@ -11,6 +11,6 @@ convert $IMAGE -scale 10% -scale 1000% -fill black -colorize 40% $IMAGE
 }
 convert $IMAGE $TEXT -gravity center -geometry +0+300 -composite $IMAGE
 convert $IMAGE $ICON -gravity center -composite -matte $IMAGE
-i3lock -u -i $IMAGE
+i3lock -u -i $IMAGE -n
 
 rm $IMAGE $TEXT
