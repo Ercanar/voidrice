@@ -1,0 +1,806 @@
+# You can edit this file by hand, but it's recommended not to do that.
+
+# Marks:
+
+# Bookmarks:
+
+# TUI:
+ar
+q0
+v2
+ov
+m-1
+l2
+r2
+
+# Left window history (oldest to newest):
+d/home/leonsch
+	Android
+2
+d/home/leonsch/Android
+	SD-Karte
+2
+d/home/leonsch/Android/SD-Karte
+	LOST.DIR
+3
+d/home/leonsch/Android/SD-Karte/LOST.DIR
+	..
+0
+d/home/leonsch/Android/SD-Karte
+	MusicPlayer
+4
+d/home/leonsch/Android/SD-Karte/MusicPlayer
+	download
+1
+d/home/leonsch/Android/SD-Karte/MusicPlayer/download
+	..
+0
+d/home/leonsch/Android/SD-Karte/MusicPlayer
+	download
+1
+d/home/leonsch/Android/SD-Karte
+	DCIM
+2
+d/home/leonsch/Android/SD-Karte/DCIM
+	Camera
+1
+d/home/leonsch/Android/SD-Karte/DCIM/Camera
+	IMG_20191207_125800.jpg
+10
+d/home/leonsch
+	Android
+2
+d/home/leonsch/Android
+	Interner gemeinsamer Speicher
+1
+d/home/leonsch/Android/Interner gemeinsamer Speicher
+	WhatsApp
+8
+d/home/leonsch/Android/Interner gemeinsamer Speicher/WhatsApp
+	Backups
+1
+d/home/leonsch/Android/Interner gemeinsamer Speicher/WhatsApp/Backups
+	..
+0
+d/home/leonsch/Android/Interner gemeinsamer Speicher/WhatsApp
+	Databases
+2
+d/home/leonsch/Android/Interner gemeinsamer Speicher/WhatsApp/Databases
+	msgstore-2019-12-16.1.db.crypt12
+1
+d/home/leonsch/Android/Interner gemeinsamer Speicher/WhatsApp
+	Media
+3
+d/home/leonsch/Android/Interner gemeinsamer Speicher/WhatsApp/Media
+	..
+0
+
+# Right window history (oldest to newest):
+D/mnt/Schule in general
+	..
+0
+D/mnt
+	Rules
+5
+D/mnt/Rules
+	..
+0
+D/home/leonsch
+	C++
+3
+D/home/leonsch/C++
+	QT-projects
+3
+D/home/leonsch/C++/QT-projects
+	..
+0
+D/home/leonsch
+	C++
+3
+D/home/leonsch/C++
+	QT-projects
+3
+D/home/leonsch/C++/QT-projects
+	..
+0
+D/home/leonsch
+	C++
+3
+D/home/leonsch/Android/Interner gemeinsamer Speicher
+	..
+0
+D/home/leonsch
+	Android
+2
+D/home/leonsch/Android
+	SD-Karte
+2
+D/home/leonsch/Android/SD-Karte
+	WhatsApp
+5
+D/home/leonsch/Android/SD-Karte/WhatsApp
+	Media
+1
+D/home/leonsch/Android/SD-Karte
+	WhatsApp
+5
+D/home/leonsch/Android/SD-Karte/WhatsApp
+	Media
+1
+D/home/leonsch/Android/SD-Karte/WhatsApp/Media
+	.Statuses
+1
+D/home/leonsch/Android/SD-Karte/WhatsApp/Media/.Statuses
+	..
+0
+D/home/leonsch/Android/SD-Karte/WhatsApp/Media
+	.Statuses
+1
+
+# Command line history (oldest to newest):
+:!mv WendtilatorSimulator/ ..
+:!mv WendtilatorSimulator wsim
+:!mv wsim/WendtilatorSimulator/ .
+:!rm -rf WendtilatorSimulator/
+:!mv WendtilatorSimulator/ ws
+:!mv -f Undertale.v1.08.GOG/Undertale.v1.08.GOG/Undertale.v1.08.GOG/ .
+:!mv -f Undertale.v1.08.GOG/Undertale.v1.08.GOG/Undertale.v1.08.GOG/ Undertale
+:!rm -rf 1.7.10\ RotaryCraft/
+:!cp -r 1.7.10\ RotaryCraft/ /mnt/
+:!cp -r ExpPackVanillaFlavored/ /mnt/
+:!rm -rf *
+:!mv Baba.Is.You.v01.08.2019/Baba.Is.You.v01.08.2019/Baba.Is.You.v01.08.2019/ .
+:!mv Baba.Is.You.v01.08.2019/Baba.Is.You.v01.08.2019/Baba.Is.You.v01.08.2019/ Baba_Is_You
+:!vim haskell/
+:!vim hw.sh
+:!rm -rf Rules/
+:!cp -r /mnt/Rules/ .
+:!cp -r egcd/ /mnt/
+:!rm -rf egcd/
+:!cp -r /mnt/egcd/ .
+
+# Search history (oldest to newest):
+/cli
+
+# Prompt history (oldest to newest):
+pNew World
+pNew World_BACKUP
+pCC_ALLPROG2
+pTest
+pTest2
+ptpo04-sm-f2.mscz
+
+# Local filter history (oldest to newest):
+
+# Registers:
+""/home/leonsch/.local/share/vifm/Trash/000_pic-full-191223-2059-31.png
+
+# Directory stack (oldest to newest):
+
+# Trash content:
+t/home/leonsch/.local/share/vifm/Trash/000_Makefile
+	/home/leonsch/eclipse-workspace/EBCG2-GUI/Makefile
+t/home/leonsch/.local/share/vifm/Trash/000_ricktest.png
+	/home/leonsch/ricktest.png
+t/home/leonsch/.local/share/vifm/Trash/000_2019-08-28-201711_1920x1080_scrot.png
+	/home/leonsch/2019-08-28-201711_1920x1080_scrot.png
+t/home/leonsch/.local/share/vifm/Trash/000_pic-window-190829-1754-20.png
+	/home/leonsch/pic-window-190829-1754-20.png
+t/home/leonsch/.local/share/vifm/Trash/000_lockscreen.png
+	/home/leonsch/lockscreen.png
+t/home/leonsch/.local/share/vifm/Trash/000_jadehouse_1920x1080.jpg
+	/home/leonsch/Pictures/background/jadehouse_1920x1080.jpg
+t/home/leonsch/.local/share/vifm/Trash/000_skaia_1920x1080.jpg
+	/home/leonsch/Pictures/background/skaia_1920x1080.jpg
+t/home/leonsch/.local/share/vifm/Trash/000_pic-selected-190829-2035-31.png
+	/home/leonsch/pic-selected-190829-2035-31.png
+t/home/leonsch/.local/share/vifm/Trash/000_pic-selected-190829-2043-38.png
+	/home/leonsch/pic-selected-190829-2043-38.png
+t/home/leonsch/.local/share/vifm/Trash/000_git
+	/home/leonsch/git
+t/home/leonsch/.local/share/vifm/Trash/000_pic-full-190901-1848-19.png
+	/home/leonsch/pic-full-190901-1848-19.png
+t/home/leonsch/.local/share/vifm/Trash/000_pic-selected-190901-1935-17.png
+	/home/leonsch/pic-selected-190901-1935-17.png
+t/home/leonsch/.local/share/vifm/Trash/000_pic-selected-190901-1936-01.png
+	/home/leonsch/pic-selected-190901-1936-01.png
+t/home/leonsch/.local/share/vifm/Trash/000_steam.desktop
+	/home/leonsch/steam.desktop
+t/home/leonsch/.local/share/vifm/Trash/000_default.txt
+	/home/leonsch/default.txt
+t/home/leonsch/.local/share/vifm/Trash/000_1.6 Simple Interstellar.ckan
+	/home/leonsch/ckan-lists/1.6 Simple Interstellar.ckan
+t/home/leonsch/.local/share/vifm/Trash/000_1.6 USI + Nf.ckan
+	/home/leonsch/ckan-lists/1.6 USI + Nf.ckan
+t/home/leonsch/.local/share/vifm/Trash/000_BASIC.ckan
+	/home/leonsch/ckan-lists/BASIC.ckan
+t/home/leonsch/.local/share/vifm/Trash/000_pic-selected-190906-1343-31.png
+	/home/leonsch/pic-selected-190906-1343-31.png
+t/home/leonsch/.local/share/vifm/Trash/000_pic-selected-190906-1344-22.png
+	/home/leonsch/pic-selected-190906-1344-22.png
+t/home/leonsch/.local/share/vifm/Trash/000_pic-selected-190906-1346-35.png
+	/home/leonsch/pic-selected-190906-1346-35.png
+t/home/leonsch/.local/share/vifm/Trash/000_pic-selected-190906-1347-59.png
+	/home/leonsch/pic-selected-190906-1347-59.png
+t/home/leonsch/.local/share/vifm/Trash/000_pic-selected-190906-1624-57.png
+	/home/leonsch/pic-selected-190906-1624-57.png
+t/home/leonsch/.local/share/vifm/Trash/000_forge-1.12.2-14.23.5.2846-installer.jar
+	/home/leonsch/Downloads/forge-1.12.2-14.23.5.2846-installer.jar
+t/home/leonsch/.local/share/vifm/Trash/000_forge-1.12.2-14.23.5.2846-installer.jar.log
+	/home/leonsch/Downloads/forge-1.12.2-14.23.5.2846-installer.jar.log
+t/home/leonsch/.local/share/vifm/Trash/000_e
+	/home/leonsch/Downloads/e
+t/home/leonsch/.local/share/vifm/Trash/000_Test
+	/home/leonsch/minecraft/1.12.2_bauen_hannes/saves/Test
+t/home/leonsch/.local/share/vifm/Trash/000_hannes_alte_kirche-20190906-200624.zip
+	/home/leonsch/minecraft-server/1.12.2_bauen_hannes/hannes_alte_kirche-20190906-200624.zip
+t/home/leonsch/.local/share/vifm/Trash/000_ISO_keyboard_(105)_QWERTY_UK.svg
+	/home/leonsch/Pictures/ISO_keyboard_(105)_QWERTY_UK.svg
+t/home/leonsch/.local/share/vifm/Trash/000_pic-selected-190907-1134-04.png
+	/home/leonsch/pic-selected-190907-1134-04.png
+t/home/leonsch/.local/share/vifm/Trash/000_pic-selected-190907-1128-08.png
+	/home/leonsch/pic-selected-190907-1128-08.png
+t/home/leonsch/.local/share/vifm/Trash/000_pic-selected-190907-1129-45.png
+	/home/leonsch/pic-selected-190907-1129-45.png
+t/home/leonsch/.local/share/vifm/Trash/000_pic-selected-190907-1134-29.png
+	/home/leonsch/pic-selected-190907-1134-29.png
+t/home/leonsch/.local/share/vifm/Trash/000_pic-selected-190907-1307-10.png
+	/home/leonsch/pic-selected-190907-1307-10.png
+t/home/leonsch/.local/share/vifm/Trash/000_pic-selected-190907-1314-03.png
+	/home/leonsch/pic-selected-190907-1314-03.png
+t/home/leonsch/.local/share/vifm/Trash/000_screenshots
+	/home/leonsch/minecraft/1.12.2_bauen_hannes/screenshots
+t/home/leonsch/.local/share/vifm/Trash/000_pic-selected-190907-1318-27.png
+	/home/leonsch/pic-selected-190907-1318-27.png
+t/home/leonsch/.local/share/vifm/Trash/000_pic-full-190908-1157-48.png
+	/home/leonsch/pic-full-190908-1157-48.png
+t/home/leonsch/.local/share/vifm/Trash/000_pic-selected-190908-1211-47.png
+	/home/leonsch/pic-selected-190908-1211-47.png
+t/home/leonsch/.local/share/vifm/Trash/000_pic-selected-190908-1753-59.png
+	/home/leonsch/pic-selected-190908-1753-59.png
+t/home/leonsch/.local/share/vifm/Trash/000_pic-selected-190909-1754-40.png
+	/home/leonsch/pic-selected-190909-1754-40.png
+t/home/leonsch/.local/share/vifm/Trash/000_pic-selected-190909-1759-59.png
+	/home/leonsch/pic-selected-190909-1759-59.png
+t/home/leonsch/.local/share/vifm/Trash/000_soundtest.flac
+	/home/leonsch/soundtest.flac
+t/home/leonsch/.local/share/vifm/Trash/000_pic-window-190909-1808-45.png
+	/home/leonsch/pic-window-190909-1808-45.png
+t/home/leonsch/.local/share/vifm/Trash/000_pic-selected-190910-1800-54.png
+	/home/leonsch/pic-selected-190910-1800-54.png
+t/home/leonsch/.local/share/vifm/Trash/000_audiotest.flac
+	/home/leonsch/audiotest.flac
+t/home/leonsch/.local/share/vifm/Trash/001_audiotest.opus
+	/home/leonsch/audiotest.opus
+t/home/leonsch/.local/share/vifm/Trash/000_pic-selected-190911-1637-44.png
+	/home/leonsch/pic-selected-190911-1637-44.png
+t/home/leonsch/.local/share/vifm/Trash/000_pic-selected-190911-1703-23.png
+	/home/leonsch/pic-selected-190911-1703-23.png
+t/home/leonsch/.local/share/vifm/Trash/000_pic-selected-190911-1717-40.png
+	/home/leonsch/pic-selected-190911-1717-40.png
+t/home/leonsch/.local/share/vifm/Trash/000_Tux_Enhanced.svg.png
+	/home/leonsch/Pictures/Tux_Enhanced.svg.png
+t/home/leonsch/.local/share/vifm/Trash/000_archlinux.png
+	/home/leonsch/Pictures/archlinux.png
+t/home/leonsch/.local/share/vifm/Trash/000_icon_48_1399548315264.jpg
+	/home/leonsch/Pictures/icon_48_1399548315264.jpg
+t/home/leonsch/.local/share/vifm/Trash/000_icon_48_1399548315264.png
+	/home/leonsch/Pictures/icon_48_1399548315264.png
+t/home/leonsch/.local/share/vifm/Trash/000_clusterfuck.jpg
+	/home/leonsch/Pictures/clusterfuck.jpg
+t/home/leonsch/.local/share/vifm/Trash/000_clusterfuck.png
+	/home/leonsch/Pictures/clusterfuck.png
+t/home/leonsch/.local/share/vifm/Trash/000_ubo.png
+	/home/leonsch/Pictures/ubo.png
+t/home/leonsch/.local/share/vifm/Trash/000_Clippy.png
+	/home/leonsch/Pictures/Clippy.png
+t/home/leonsch/.local/share/vifm/Trash/000_blb.png
+	/home/leonsch/Pictures/blb.png
+t/home/leonsch/.local/share/vifm/Trash/000_clippy.png
+	/home/leonsch/Pictures/clippy.png
+t/home/leonsch/.local/share/vifm/Trash/000_pic-selected-190911-1901-53.png
+	/home/leonsch/pic-selected-190911-1901-53.png
+t/home/leonsch/.local/share/vifm/Trash/000_pic-selected-190911-1902-24.png
+	/home/leonsch/pic-selected-190911-1902-24.png
+t/home/leonsch/.local/share/vifm/Trash/000_pic-selected-190911-1917-51.png
+	/home/leonsch/pic-selected-190911-1917-51.png
+t/home/leonsch/.local/share/vifm/Trash/000_pic-selected-190911-1918-18.png
+	/home/leonsch/pic-selected-190911-1918-18.png
+t/home/leonsch/.local/share/vifm/Trash/000_pic-selected-190911-1940-23.png
+	/home/leonsch/pic-selected-190911-1940-23.png
+t/home/leonsch/.local/share/vifm/Trash/000_System Volume Information
+	/mnt/System Volume Information
+t/home/leonsch/.local/share/vifm/Trash/000_FTB Sky Odyssey
+	/mnt/FTB Sky Odyssey
+t/home/leonsch/.local/share/vifm/Trash/000_FTB_Sky_Odyssey
+	/home/leonsch/FTB_Sky_Odyssey
+t/home/leonsch/.local/share/vifm/Trash/000_Factorio
+	/mnt/Factorio
+t/home/leonsch/.local/share/vifm/Trash/000_Factorio.v0.17.68
+	/mnt/Factorio.v0.17.68
+t/home/leonsch/.local/share/vifm/Trash/000_dosdevices
+	/home/leonsch/winebottle/dosdevices
+t/home/leonsch/.local/share/vifm/Trash/000_drive_c
+	/home/leonsch/winebottle/drive_c
+t/home/leonsch/.local/share/vifm/Trash/000_.update-timestamp
+	/home/leonsch/winebottle/.update-timestamp
+t/home/leonsch/.local/share/vifm/Trash/000_system.reg
+	/home/leonsch/winebottle/system.reg
+t/home/leonsch/.local/share/vifm/Trash/000_user.reg
+	/home/leonsch/winebottle/user.reg
+t/home/leonsch/.local/share/vifm/Trash/000_userdef.reg
+	/home/leonsch/winebottle/userdef.reg
+t/home/leonsch/.local/share/vifm/Trash/000_winebottle
+	/home/leonsch/winebottle
+t/home/leonsch/.local/share/vifm/Trash/000_pic-selected-190912-1605-26.png
+	/home/leonsch/pic-selected-190912-1605-26.png
+t/home/leonsch/.local/share/vifm/Trash/000_pic-selected-190915-1944-58.png
+	/home/leonsch/pic-selected-190915-1944-58.png
+t/home/leonsch/.local/share/vifm/Trash/000_umfrage.pdf
+	/home/leonsch/Studienarbeit_12/umfrage.pdf
+t/home/leonsch/.local/share/vifm/Trash/000_html2pdf.zip
+	/home/leonsch/Studienarbeit_12/html2pdf.zip
+t/home/leonsch/.local/share/vifm/Trash/000_html2pdf
+	/home/leonsch/Studienarbeit_12/html2pdf
+t/home/leonsch/.local/share/vifm/Trash/000_MSS_Server
+	/home/leonsch/MSS_Server
+t/home/leonsch/.local/share/vifm/Trash/000_MSS_Server.zip
+	/home/leonsch/MSS_Server.zip
+t/home/leonsch/.local/share/vifm/Trash/000_MSS.zip
+	/home/leonsch/MSS.zip
+t/home/leonsch/.local/share/vifm/Trash/000_audio-190922-1845-46.flac
+	/home/leonsch/audio-190922-1845-46.flac
+t/home/leonsch/.local/share/vifm/Trash/000_pic-full-190917-1819-19.png
+	/home/leonsch/pic-full-190917-1819-19.png
+t/home/leonsch/.local/share/vifm/Trash/000_pic-selected-190915-2009-19.png
+	/home/leonsch/pic-selected-190915-2009-19.png
+t/home/leonsch/.local/share/vifm/Trash/000_pic-selected-190917-2014-06.png
+	/home/leonsch/pic-selected-190917-2014-06.png
+t/home/leonsch/.local/share/vifm/Trash/000_pic-selected-190918-1830-54.png
+	/home/leonsch/pic-selected-190918-1830-54.png
+t/home/leonsch/.local/share/vifm/Trash/000_pic-selected-190919-1623-58.png
+	/home/leonsch/pic-selected-190919-1623-58.png
+t/home/leonsch/.local/share/vifm/Trash/000_pic-selected-190919-1857-18.png
+	/home/leonsch/pic-selected-190919-1857-18.png
+t/home/leonsch/.local/share/vifm/Trash/000_pic-selected-190919-1931-18.png
+	/home/leonsch/pic-selected-190919-1931-18.png
+t/home/leonsch/.local/share/vifm/Trash/000_pic-selected-190922-1902-15.png
+	/home/leonsch/pic-selected-190922-1902-15.png
+t/home/leonsch/.local/share/vifm/Trash/000_pic-selected-190922-1902-20.png
+	/home/leonsch/pic-selected-190922-1902-20.png
+t/home/leonsch/.local/share/vifm/Trash/000_2019-09-22 19-06-46.mkv
+	/home/leonsch/2019-09-22 19-06-46.mkv
+t/home/leonsch/.local/share/vifm/Trash/000_2019-09-22 19-08-57.mkv
+	/home/leonsch/2019-09-22 19-08-57.mkv
+t/home/leonsch/.local/share/vifm/Trash/000_moducolor
+	/home/leonsch/C++/moducolor
+t/home/leonsch/.local/share/vifm/Trash/000_pic-selected-190923-2047-34.png
+	/home/leonsch/pic-selected-190923-2047-34.png
+t/home/leonsch/.local/share/vifm/Trash/000_pic-selected-190924-1906-10.png
+	/home/leonsch/pic-selected-190924-1906-10.png
+t/home/leonsch/.local/share/vifm/Trash/000_pic-selected-190924-2028-42.png
+	/home/leonsch/pic-selected-190924-2028-42.png
+t/home/leonsch/.local/share/vifm/Trash/000_pic-selected-190925-1718-08.png
+	/home/leonsch/pic-selected-190925-1718-08.png
+t/home/leonsch/.local/share/vifm/Trash/000_reqs.txt
+	/home/leonsch/reqs.txt
+t/home/leonsch/.local/share/vifm/Trash/000_Superior Windows XP x64 Edition (64 bit) (2011) [Multilanguaje][WwW.ZoNaTorrent.CoM].iso.part
+	/home/leonsch/Downloads/Superior Windows XP x64 Edition (64 bit) (2011) [Multilanguaje][WwW.ZoNaTorrent.CoM].iso.part
+t/home/leonsch/.local/share/vifm/Trash/000_builds
+	/home/leonsch/builds
+t/home/leonsch/.local/share/vifm/Trash/000_include
+	/home/leonsch/MSS/include
+t/home/leonsch/.local/share/vifm/Trash/000_Games
+	/home/leonsch/Games
+t/home/leonsch/.local/share/vifm/Trash/000_autismquotes
+	/home/leonsch/Pictures/autismquotes
+t/home/leonsch/.local/share/vifm/Trash/000_pic-selected-190928-1001-59.png
+	/home/leonsch/pic-selected-190928-1001-59.png
+t/home/leonsch/.local/share/vifm/Trash/000_Gallifreyan.pfd
+	/home/leonsch/fontforge/Gallifreyan.pfd
+t/home/leonsch/.local/share/vifm/Trash/000_Untitled1.png
+	/home/leonsch/Untitled1.png
+t/home/leonsch/.local/share/vifm/Trash/000_Gallifreyan.afm
+	/home/leonsch/fontforge/Gallifreyan.afm
+t/home/leonsch/.local/share/vifm/Trash/000_Gallifreyan.sfd
+	/home/leonsch/fontforge/Gallifreyan.sfd
+t/home/leonsch/.local/share/vifm/Trash/000_Gallifreyan.ttf
+	/home/leonsch/fontforge/Gallifreyan.ttf
+t/home/leonsch/.local/share/vifm/Trash/000_vimwiki
+	/home/leonsch/vimwiki
+t/home/leonsch/.local/share/vifm/Trash/000_Mediation_Exercise.pdf
+	/home/leonsch/schule/englisch/Mediation_Exercise.pdf
+t/home/leonsch/.local/share/vifm/Trash/000_TOS.ISO
+	/mnt/Users/Leon Schumacher/Desktop/Dinge/Linux/iso/TOS.ISO
+t/home/leonsch/.local/share/vifm/Trash/000_Windows_XP_Professional_SP3.iso
+	/mnt/Users/Leon Schumacher/Desktop/Dinge/Linux/iso/Windows_XP_Professional_SP3.iso
+t/home/leonsch/.local/share/vifm/Trash/000_gparted-live-0.32.0-1-amd64.iso
+	/mnt/Users/Leon Schumacher/Desktop/Dinge/Linux/iso/gparted-live-0.32.0-1-amd64.iso
+t/home/leonsch/.local/share/vifm/Trash/000_myos.iso
+	/mnt/Users/Leon Schumacher/Desktop/Dinge/Linux/iso/myos.iso
+t/home/leonsch/.local/share/vifm/Trash/000_itemscroller-fabric-1.14.4-0.15.0-dev.20190720.190250.jar
+	/home/leonsch/multimc-instances/1.14.4/.minecraft/mods/itemscroller-fabric-1.14.4-0.15.0-dev.20190720.190250.jar
+t/home/leonsch/.local/share/vifm/Trash/000_InventorySorter-1.5.7.jar
+	/home/leonsch/multimc-instances/1.14.4/.minecraft/mods/InventorySorter-1.5.7.jar
+t/home/leonsch/.local/share/vifm/Trash/000_buffer-1.14.4-1.8.3.jar
+	/home/leonsch/tmp/buffer-1.14.4-1.8.3.jar
+t/home/leonsch/.local/share/vifm/Trash/000_Hwyla-fabric-1.14.2-1.9.17-66.jar
+	/home/leonsch/tmp/Hwyla-fabric-1.14.2-1.9.17-66.jar
+t/home/leonsch/.local/share/vifm/Trash/000_clippys_tippies-1.0.0.jar
+	/home/leonsch/multimc-instances/1.14.4/.minecraft/mods/clippys_tippies-1.0.0.jar
+t/home/leonsch/.local/share/vifm/Trash/000_build-modsocks-Desktop-Debug
+	/home/leonsch/build-modsocks-Desktop-Debug
+t/home/leonsch/.local/share/vifm/Trash/000_Bad+Times+and+Big+Machines-1.6
+	/home/leonsch/multimc-instances/Bad+Times+and+Big+Machines-1.6
+t/home/leonsch/.local/share/vifm/Trash/000_VALC.pro.user.93d23c1
+	/home/leonsch/C++/QT-projects/VALC/VALC.pro.user.93d23c1
+t/home/leonsch/.local/share/vifm/Trash/000_pic-selected-190929-1454-11.png
+	/home/leonsch/pic-selected-190929-1454-11.png
+t/home/leonsch/.local/share/vifm/Trash/000_pic-selected-191013-1453-45.png
+	/home/leonsch/pic-selected-191013-1453-45.png
+t/home/leonsch/.local/share/vifm/Trash/000_pic-selected-191015-1848-59.png
+	/home/leonsch/pic-selected-191015-1848-59.png
+t/home/leonsch/.local/share/vifm/Trash/000_pic-selected-191015-2051-38.png
+	/home/leonsch/pic-selected-191015-2051-38.png
+t/home/leonsch/.local/share/vifm/Trash/000_pic-full-191020-2054-41.png
+	/home/leonsch/pic-full-191020-2054-41.png
+t/home/leonsch/.local/share/vifm/Trash/000_pic-selected-191021-2026-44.png
+	/home/leonsch/pic-selected-191021-2026-44.png
+t/home/leonsch/.local/share/vifm/Trash/000_pic-selected-191021-2028-02.png
+	/home/leonsch/pic-selected-191021-2028-02.png
+t/home/leonsch/.local/share/vifm/Trash/000_pic-selected-191021-2031-25.png
+	/home/leonsch/pic-selected-191021-2031-25.png
+t/home/leonsch/.local/share/vifm/Trash/000_pic-selected-191021-2039-29.png
+	/home/leonsch/pic-selected-191021-2039-29.png
+t/home/leonsch/.local/share/vifm/Trash/000_pic-selected-191021-2050-43.png
+	/home/leonsch/pic-selected-191021-2050-43.png
+t/home/leonsch/.local/share/vifm/Trash/000_Manifold.Garden.v1.0.23.12156
+	/home/leonsch/Downloads/Manifold.Garden.v1.0.23.12156
+t/home/leonsch/.local/share/vifm/Trash/001_build-modsocks-Desktop-Debug
+	/home/leonsch/C++/QT-projects/build-modsocks-Desktop-Debug
+t/home/leonsch/.local/share/vifm/Trash/000_build-modsocks-Desktop-Release
+	/home/leonsch/C++/QT-projects/build-modsocks-Desktop-Release
+t/home/leonsch/.local/share/vifm/Trash/000_modsocks
+	/home/leonsch/C++/QT-projects/modsocks
+t/home/leonsch/.local/share/vifm/Trash/000_magipack.tar.xz
+	/home/leonsch/magipack.tar.xz
+t/home/leonsch/.local/share/vifm/Trash/000_bot.xml
+	/home/leonsch/bot.xml
+t/home/leonsch/.local/share/vifm/Trash/000_Bad+Times+and+Big+Machines-1.6.zip
+	/home/leonsch/multimc-instances/Bad+Times+and+Big+Machines-1.6.zip
+t/home/leonsch/.local/share/vifm/Trash/000_FailedClasses
+	/home/leonsch/multimc-instances/1.7.10 Technic/.minecraft/FailedClasses
+t/home/leonsch/.local/share/vifm/Trash/000_New World
+	/home/leonsch/multimc-instances/1.7.10 Technic/.minecraft/saves/New World
+t/home/leonsch/.local/share/vifm/Trash/000_Test
+	/home/leonsch/multimc-instances/1.7.10 Technic/.minecraft/saves/Test
+t/home/leonsch/.local/share/vifm/Trash/000_New World-
+	/home/leonsch/multimc-instances/1.7.10 Technic/.minecraft/saves/New World-
+t/home/leonsch/.local/share/vifm/Trash/000_DragonAPI+1.7.10+V23a.jar.disabled
+	/home/leonsch/multimc-instances/1.7.10 Technic/.minecraft/mods/DragonAPI+1.7.10+V23a.jar.disabled
+t/home/leonsch/.local/share/vifm/Trash/000_CodeChickenLib-1.7.10-1.1.3.138-universal.jar
+	/home/leonsch/multimc-instances/1.7.10 Technic/.minecraft/mods/1.7.10/CodeChickenLib-1.7.10-1.1.3.138-universal.jar
+t/home/leonsch/.local/share/vifm/Trash/000_mods
+	/home/leonsch/mods
+t/home/leonsch/.local/share/vifm/Trash/001_Protokoll_2019-10-15.md
+	/mnt/Protokoll_2019-10-15.md
+t/home/leonsch/.local/share/vifm/Trash/000_New World_BACKUP
+	/home/leonsch/multimc-instances/1.7.10 RotaryCraft/.minecraft/saves/New World_BACKUP
+t/home/leonsch/.local/share/vifm/Trash/001_modsocks
+	/home/leonsch/modsocks
+t/home/leonsch/.local/share/vifm/Trash/000_fontforge
+	/home/leonsch/fontforge
+t/home/leonsch/.local/share/vifm/Trash/000_bsod
+	/home/leonsch/Downloads/bsod
+t/home/leonsch/.local/share/vifm/Trash/000_pic-full-191020-2055-22.png
+	/home/leonsch/pic-full-191020-2055-22.png
+t/home/leonsch/.local/share/vifm/Trash/000_pic-selected-191022-1806-15.png
+	/home/leonsch/pic-selected-191022-1806-15.png
+t/home/leonsch/.local/share/vifm/Trash/000_pic-selected-191022-1811-11.png
+	/home/leonsch/pic-selected-191022-1811-11.png
+t/home/leonsch/.local/share/vifm/Trash/000_pic-selected-191023-1557-51.png
+	/home/leonsch/pic-selected-191023-1557-51.png
+t/home/leonsch/.local/share/vifm/Trash/000_pic-selected-191026-1512-22.png
+	/home/leonsch/pic-selected-191026-1512-22.png
+t/home/leonsch/.local/share/vifm/Trash/000_pic-selected-191027-1733-57.png
+	/home/leonsch/pic-selected-191027-1733-57.png
+t/home/leonsch/.local/share/vifm/Trash/000_pic-window-191022-2117-50.png
+	/home/leonsch/pic-window-191022-2117-50.png
+t/home/leonsch/.local/share/vifm/Trash/000_twrp-3.3.1-0-herolte.img
+	/home/leonsch/Downloads/twrp-3.3.1-0-herolte.img
+t/home/leonsch/.local/share/vifm/Trash/000_hannes_kontoauszug
+	/home/leonsch/hannes_kontoauszug
+t/home/leonsch/.local/share/vifm/Trash/000_tModLoader.Linux.v0.11.5.tar
+	/home/leonsch/steamapps/Terraria/tModLoader.Linux.v0.11.5.tar
+t/home/leonsch/.local/share/vifm/Trash/000_Odin3+v3.12+(PrinceComsy)
+	/home/leonsch/Downloads/Odin3+v3.12+(PrinceComsy)
+t/home/leonsch/.local/share/vifm/Trash/000_Manifold.Garden.v1.0.23.12156.rar
+	/home/leonsch/Downloads/Manifold.Garden.v1.0.23.12156.rar
+t/home/leonsch/.local/share/vifm/Trash/000_ws_simple_gallifreyan.zip
+	/home/leonsch/Downloads/ws_simple_gallifreyan.zip
+t/home/leonsch/.local/share/vifm/Trash/000_DragonAPI+1.7.10+V23a.jar
+	/home/leonsch/multimc-instances/1.7.10 RotaryCraft/.minecraft/mods/DragonAPI+1.7.10+V23a.jar
+t/home/leonsch/.local/share/vifm/Trash/000_RotaryCraft+1.7.10+V23a.jar
+	/home/leonsch/multimc-instances/1.7.10 RotaryCraft/.minecraft/mods/RotaryCraft+1.7.10+V23a.jar
+t/home/leonsch/.local/share/vifm/Trash/000_ReactorCraft+1.7.10+V23a.jar
+	/home/leonsch/multimc-instances/1.7.10 RotaryCraft/.minecraft/mods/ReactorCraft+1.7.10+V23a.jar
+t/home/leonsch/.local/share/vifm/Trash/000_ChromatiCraft+1.7.10+V23a.jar
+	/home/leonsch/multimc-instances/1.7.10 RotaryCraft/.minecraft/mods/ChromatiCraft+1.7.10+V23a.jar
+t/home/leonsch/.local/share/vifm/Trash/000_CC_ALLPROG2
+	/home/leonsch/multimc-instances/1.7.10 RotaryCraft/.minecraft/saves/CC_ALLPROG2
+t/home/leonsch/.local/share/vifm/Trash/001_Test
+	/home/leonsch/multimc-instances/Magipack - RotaryCraft/.minecraft/saves/Test
+t/home/leonsch/.local/share/vifm/Trash/001_DragonAPI+1.7.10+V23a.jar
+	/home/leonsch/multimc-instances/Magipack - RotaryCraft/.minecraft/mods/DragonAPI+1.7.10+V23a.jar
+t/home/leonsch/.local/share/vifm/Trash/001_RotaryCraft+1.7.10+V23a.jar
+	/home/leonsch/multimc-instances/Magipack - RotaryCraft/.minecraft/mods/RotaryCraft+1.7.10+V23a.jar
+t/home/leonsch/.local/share/vifm/Trash/000_ReactorCraft+1.7.10+V23b.jar
+	/home/leonsch/multimc-instances/dumb shit/.minecraft/mods/ReactorCraft+1.7.10+V23b.jar
+t/home/leonsch/.local/share/vifm/Trash/001_CodeChickenLib-1.7.10-1.1.3.138-universal.jar
+	/home/leonsch/multimc-instances/dumb shit/.minecraft/mods/1.7.10/CodeChickenLib-1.7.10-1.1.3.138-universal.jar
+t/home/leonsch/.local/share/vifm/Trash/000_appworkshop_211820.acf
+	/home/leonsch/.steam/steam/steamapps/workshop/appworkshop_211820.acf
+t/home/leonsch/.local/share/vifm/Trash/000_downloads
+	/home/leonsch/.steam/steam/steamapps/workshop/downloads
+t/home/leonsch/.local/share/vifm/Trash/000_NewFolder
+	/home/leonsch/NewFolder
+t/home/leonsch/.local/share/vifm/Trash/000_VisitorTemplate
+	/mnt/VisitorTemplate
+t/home/leonsch/.local/share/vifm/Trash/000_modsocks-testing
+	/home/leonsch/C++/QT-projects/modsocks-testing
+t/home/leonsch/.local/share/vifm/Trash/000_simplesockets
+	/home/leonsch/C++/QT-projects/simplesockets
+t/home/leonsch/.local/share/vifm/Trash/000_build-FullExecTest-Desktop-Debug
+	/home/leonsch/C++/QT-projects/build-FullExecTest-Desktop-Debug
+t/home/leonsch/.local/share/vifm/Trash/000_build-FullExecTest-Desktop-Release
+	/home/leonsch/C++/QT-projects/build-FullExecTest-Desktop-Release
+t/home/leonsch/.local/share/vifm/Trash/000_build-simplesockets-Desktop-Debug
+	/home/leonsch/C++/QT-projects/build-simplesockets-Desktop-Debug
+t/home/leonsch/.local/share/vifm/Trash/000_build-SimpleSockets-Desktop-Debug
+	/home/leonsch/C++/QT-projects/build-SimpleSockets-Desktop-Debug
+t/home/leonsch/.local/share/vifm/Trash/000_SimpleSockets
+	/home/leonsch/C++/QT-projects/SimpleSockets
+t/home/leonsch/.local/share/vifm/Trash/001_VisitorTemplate
+	/home/leonsch/C++/QT-projects/VisitorTemplate
+t/home/leonsch/.local/share/vifm/Trash/000_pic-selected-191103-1030-58.png
+	/home/leonsch/pic-selected-191103-1030-58.png
+t/home/leonsch/.local/share/vifm/Trash/000_FILE0001.AVI
+	/mnt/detritus/FILE0001.AVI
+t/home/leonsch/.local/share/vifm/Trash/000_FILE0002.AVI
+	/mnt/detritus/FILE0002.AVI
+t/home/leonsch/.local/share/vifm/Trash/000_FILE0003.AVI
+	/mnt/detritus/FILE0003.AVI
+t/home/leonsch/.local/share/vifm/Trash/000_FILE0004.AVI
+	/mnt/detritus/FILE0004.AVI
+t/home/leonsch/.local/share/vifm/Trash/000_detritus
+	/mnt/detritus
+t/home/leonsch/.local/share/vifm/Trash/000_Protokoll_2019-10-15.pdf
+	/mnt/Protokoll_2019-10-15.pdf
+t/home/leonsch/.local/share/vifm/Trash/000_Manifold.Garden
+	/mnt/Manifold.Garden
+t/home/leonsch/.local/share/vifm/Trash/000_Manifold.Garden.zip
+	/home/leonsch/Downloads/ws_simple_gallifreyan/Manifold.Garden.zip
+t/home/leonsch/.local/share/vifm/Trash/001_Manifold.Garden
+	/home/leonsch/Downloads/ws_simple_gallifreyan/Manifold.Garden
+t/home/leonsch/.local/share/vifm/Trash/000_kirche.mp4
+	/home/leonsch/kirche.mp4
+t/home/leonsch/.local/share/vifm/Trash/001_cupasy.tar.gz
+	/home/leonsch/C++/QT-projects/cupasy.tar.gz
+t/home/leonsch/.local/share/vifm/Trash/000_pic-selected-191029-1908-47.png
+	/home/leonsch/pic-selected-191029-1908-47.png
+t/home/leonsch/.local/share/vifm/Trash/000_pic-selected-191030-1554-18.png
+	/home/leonsch/pic-selected-191030-1554-18.png
+t/home/leonsch/.local/share/vifm/Trash/000_pic-selected-191031-1635-25.png
+	/home/leonsch/pic-selected-191031-1635-25.png
+t/home/leonsch/.local/share/vifm/Trash/000_pic-selected-191104-2004-17.png
+	/home/leonsch/pic-selected-191104-2004-17.png
+t/home/leonsch/.local/share/vifm/Trash/000_pic-selected-191105-1854-46.png
+	/home/leonsch/pic-selected-191105-1854-46.png
+t/home/leonsch/.local/share/vifm/Trash/000_pic-selected-191107-1952-36.png
+	/home/leonsch/pic-selected-191107-1952-36.png
+t/home/leonsch/.local/share/vifm/Trash/000_pic-selected-191107-1956-03.png
+	/home/leonsch/pic-selected-191107-1956-03.png
+t/home/leonsch/.local/share/vifm/Trash/000_pic-selected-191107-1958-58.png
+	/home/leonsch/pic-selected-191107-1958-58.png
+t/home/leonsch/.local/share/vifm/Trash/001_simplesockets
+	/mnt/simplesockets
+t/home/leonsch/.local/share/vifm/Trash/000_sisoclient
+	/mnt/sisoclient
+t/home/leonsch/.local/share/vifm/Trash/000_sisoserver
+	/mnt/sisoserver
+t/home/leonsch/.local/share/vifm/Trash/000_master-master.mp4.part
+	/home/leonsch/master-master.mp4.part
+t/home/leonsch/.local/share/vifm/Trash/000_CommonCapabilities-1.12.2-2.4.4.jar
+	/home/leonsch/Downloads/CommonCapabilities-1.12.2-2.4.4.jar
+t/home/leonsch/.local/share/vifm/Trash/000_CyclopsCore-1.12.2-1.5.1.jar
+	/home/leonsch/Downloads/CyclopsCore-1.12.2-1.5.1.jar
+t/home/leonsch/.local/share/vifm/Trash/000_IntegratedCrafting-1.12.2-1.0.8.jar
+	/home/leonsch/Downloads/IntegratedCrafting-1.12.2-1.0.8.jar
+t/home/leonsch/.local/share/vifm/Trash/000_IntegratedDynamics-1.12.2-1.1.0.jar
+	/home/leonsch/Downloads/IntegratedDynamics-1.12.2-1.1.0.jar
+t/home/leonsch/.local/share/vifm/Trash/000_IntegratedTerminals-1.12.2-1.0.12.jar
+	/home/leonsch/Downloads/IntegratedTerminals-1.12.2-1.0.12.jar
+t/home/leonsch/.local/share/vifm/Trash/000_IntegratedTunnels-1.12.2-1.6.10.jar
+	/home/leonsch/Downloads/IntegratedTunnels-1.12.2-1.6.10.jar
+t/home/leonsch/.local/share/vifm/Trash/000_JustEnoughCalculation-1.12.2-3.2.2.jar
+	/home/leonsch/Downloads/JustEnoughCalculation-1.12.2-3.2.2.jar
+t/home/leonsch/.local/share/vifm/Trash/000_Manifold_Garden.zip
+	/home/leonsch/Downloads/Manifold_Garden.zip
+t/home/leonsch/.local/share/vifm/Trash/000_RandomThings-MC1.12.2-4.2.7.3.jar
+	/home/leonsch/Downloads/RandomThings-MC1.12.2-4.2.7.3.jar
+t/home/leonsch/.local/share/vifm/Trash/000_worleycaves-1.5.1.jar
+	/home/leonsch/Downloads/worleycaves-1.5.1.jar
+t/home/leonsch/.local/share/vifm/Trash/000_cupasy
+	/mnt/cupasy
+t/home/leonsch/.local/share/vifm/Trash/000_sisoclient.pro.user
+	/mnt/sisoclient/sisoclient.pro.user
+t/home/leonsch/.local/share/vifm/Trash/000_sisoclient.pro.user.eb7d86b
+	/mnt/sisoclient/sisoclient.pro.user.eb7d86b
+t/home/leonsch/.local/share/vifm/Trash/000_sisoserver.pro.user
+	/mnt/sisoserver/sisoserver.pro.user
+t/home/leonsch/.local/share/vifm/Trash/000_sisoserver.pro.user.eb7d86b
+	/mnt/sisoserver/sisoserver.pro.user.eb7d86b
+t/home/leonsch/.local/share/vifm/Trash/000_simplesockets.pro.user
+	/mnt/simplesockets/simplesockets.pro.user
+t/home/leonsch/.local/share/vifm/Trash/000_simplesockets.pro.user.eb7d86b
+	/mnt/simplesockets/simplesockets.pro.user.eb7d86b
+t/home/leonsch/.local/share/vifm/Trash/000_cupasy.pro.user
+	/mnt/cupasy/cupasy.pro.user
+t/home/leonsch/.local/share/vifm/Trash/000_pic-selected-191111-1802-29.png
+	/home/leonsch/pic-selected-191111-1802-29.png
+t/home/leonsch/.local/share/vifm/Trash/000_pic-selected-191112-1844-22.png
+	/home/leonsch/pic-selected-191112-1844-22.png
+t/home/leonsch/.local/share/vifm/Trash/000_pic-selected-191112-1848-56.png
+	/home/leonsch/pic-selected-191112-1848-56.png
+t/home/leonsch/.local/share/vifm/Trash/000_ws_simple_gallifreyan.ttf
+	/home/leonsch/VBoxTransfer/ws_simple_gallifreyan.ttf
+t/home/leonsch/.local/share/vifm/Trash/000_Windows 7 Readme.txt
+	/home/leonsch/Downloads/Windows 7 Ultimate with SP1 X64 Genuine ISO Untouched + Windows7 USB DVD Tool [h33t][iahq76]/Windows 7 Readme.txt
+t/home/leonsch/.local/share/vifm/Trash/000_USB-DVD Tool Readme.txt
+	/home/leonsch/Downloads/Windows 7 Ultimate with SP1 X64 Genuine ISO Untouched + Windows7 USB DVD Tool [h33t][iahq76]/USB-DVD Tool Readme.txt
+t/home/leonsch/.local/share/vifm/Trash/000_Windows7-USB-DVD-tool.exe
+	/home/leonsch/Downloads/Windows 7 Ultimate with SP1 X64 Genuine ISO Untouched + Windows7 USB DVD Tool [h33t][iahq76]/Windows7-USB-DVD-tool.exe
+t/home/leonsch/.local/share/vifm/Trash/000_bootsect.exe
+	/home/leonsch/Downloads/Windows 7 Ultimate with SP1 X64 Genuine ISO Untouched + Windows7 USB DVD Tool [h33t][iahq76]/bootsect.exe
+t/home/leonsch/.local/share/vifm/Trash/000_Windows 7 Ultimate with SP1 X64 Genuine ISO Untouched + Windows7 USB DVD Tool [h33t][iahq76]
+	/home/leonsch/Downloads/Windows 7 Ultimate with SP1 X64 Genuine ISO Untouched + Windows7 USB DVD Tool [h33t][iahq76]
+t/home/leonsch/.local/share/vifm/Trash/000_ThumperDC.jpg
+	/home/leonsch/Downloads/Microsoft Office 2019 Preview Build 16.0.9330.2087 (x64) [Tech-Tools.ME]/ThumperDC.jpg
+t/home/leonsch/.local/share/vifm/Trash/000__ReadMe.txt
+	/home/leonsch/Downloads/Microsoft Office 2019 Preview Build 16.0.9330.2087 (x64) [Tech-Tools.ME]/_ReadMe.txt
+t/home/leonsch/.local/share/vifm/Trash/000_www.Tech-Tools.ME - www.ThumperDC.COM.jpg
+	/home/leonsch/Downloads/Microsoft Office 2019 Preview Build 16.0.9330.2087 (x64) [Tech-Tools.ME]/www.Tech-Tools.ME - www.ThumperDC.COM.jpg
+t/home/leonsch/.local/share/vifm/Trash/000_www.Tech-Tools.ME - www.ThumperDC.COM.txt
+	/home/leonsch/Downloads/Microsoft Office 2019 Preview Build 16.0.9330.2087 (x64) [Tech-Tools.ME]/www.Tech-Tools.ME - www.ThumperDC.COM.txt
+t/home/leonsch/.local/share/vifm/Trash/000_Microsoft Office 2019 Preview Build 16.0.9330.2087 (x64) [Tech-Tools.ME]
+	/home/leonsch/Downloads/Microsoft Office 2019 Preview Build 16.0.9330.2087 (x64) [Tech-Tools.ME]
+t/home/leonsch/.local/share/vifm/Trash/000_pic-window-191113-1549-01.png
+	/home/leonsch/pic-window-191113-1549-01.png
+t/home/leonsch/.local/share/vifm/Trash/000_moodle_anfrage.png
+	/home/leonsch/Studienarbeit_12/moodle_anfrage.png
+t/home/leonsch/.local/share/vifm/Trash/000_moodle-anfrage.png
+	/home/leonsch/Studienarbeit_12/moodle-anfrage.png
+t/home/leonsch/.local/share/vifm/Trash/000_nand2tetris
+	/home/leonsch/nand2tetris
+t/home/leonsch/.local/share/vifm/Trash/000_Activator [AAct v3.8.6 Portable].rar
+	/home/leonsch/VBoxTransfer/Activator [AAct v3.8.6 Portable].rar
+t/home/leonsch/.local/share/vifm/Trash/000_Microsoft Office 2019 Preview Build 16.0.9330.2087 (x64) [Tech-Tools.ME].rar
+	/home/leonsch/VBoxTransfer/Microsoft Office 2019 Preview Build 16.0.9330.2087 (x64) [Tech-Tools.ME].rar
+t/home/leonsch/.local/share/vifm/Trash/000_pic-selected-191113-1604-53.png
+	/home/leonsch/pic-selected-191113-1604-53.png
+t/home/leonsch/.local/share/vifm/Trash/000_pic-window-191106-2105-27.png
+	/home/leonsch/pic-window-191106-2105-27.png
+t/home/leonsch/.local/share/vifm/Trash/000_pic-window-191106-2105-44.png
+	/home/leonsch/pic-window-191106-2105-44.png
+t/home/leonsch/.local/share/vifm/Trash/000_ProPlus2019.fi-FI.exe.part
+	/home/leonsch/Downloads/MS Office 2019 Pro Plus Retail x86 x64  MULTi-22 OCT 2018 {Gen2}/ProPlus2019.fi-FI.exe.part
+t/home/leonsch/.local/share/vifm/Trash/000_ProPlus2019.hr-HR.exe.part
+	/home/leonsch/Downloads/MS Office 2019 Pro Plus Retail x86 x64  MULTi-22 OCT 2018 {Gen2}/ProPlus2019.hr-HR.exe.part
+t/home/leonsch/.local/share/vifm/Trash/000_ProPlus2019.it-IT.exe.part
+	/home/leonsch/Downloads/MS Office 2019 Pro Plus Retail x86 x64  MULTi-22 OCT 2018 {Gen2}/ProPlus2019.it-IT.exe.part
+t/home/leonsch/.local/share/vifm/Trash/000_ProPlus2019.lv-LV.exe.part
+	/home/leonsch/Downloads/MS Office 2019 Pro Plus Retail x86 x64  MULTi-22 OCT 2018 {Gen2}/ProPlus2019.lv-LV.exe.part
+t/home/leonsch/.local/share/vifm/Trash/000_ProPlus2019.nb-NO.exe.part
+	/home/leonsch/Downloads/MS Office 2019 Pro Plus Retail x86 x64  MULTi-22 OCT 2018 {Gen2}/ProPlus2019.nb-NO.exe.part
+t/home/leonsch/.local/share/vifm/Trash/000_ProPlus2019.pt-PT.exe.part
+	/home/leonsch/Downloads/MS Office 2019 Pro Plus Retail x86 x64  MULTi-22 OCT 2018 {Gen2}/ProPlus2019.pt-PT.exe.part
+t/home/leonsch/.local/share/vifm/Trash/000_ProPlus2019.ru-RU.exe.part
+	/home/leonsch/Downloads/MS Office 2019 Pro Plus Retail x86 x64  MULTi-22 OCT 2018 {Gen2}/ProPlus2019.ru-RU.exe.part
+t/home/leonsch/.local/share/vifm/Trash/000_ProPlus2019.sl-SI.exe.part
+	/home/leonsch/Downloads/MS Office 2019 Pro Plus Retail x86 x64  MULTi-22 OCT 2018 {Gen2}/ProPlus2019.sl-SI.exe.part
+t/home/leonsch/.local/share/vifm/Trash/000_ProPlus2019.tr-TR.exe.part
+	/home/leonsch/Downloads/MS Office 2019 Pro Plus Retail x86 x64  MULTi-22 OCT 2018 {Gen2}/ProPlus2019.tr-TR.exe.part
+t/home/leonsch/.local/share/vifm/Trash/000_ProPlus2019.ar-SA.exe.part
+	/home/leonsch/Downloads/MS Office 2019 Pro Plus Retail x86 x64  MULTi-22 OCT 2018 {Gen2}/ProPlus2019.ar-SA.exe.part
+t/home/leonsch/.local/share/vifm/Trash/000_ProPlus2019.de-DE.exe.part
+	/home/leonsch/Downloads/MS Office 2019 Pro Plus Retail x86 x64  MULTi-22 OCT 2018 {Gen2}/ProPlus2019.de-DE.exe.part
+t/home/leonsch/.local/share/vifm/Trash/000_ProPlus2019.el-GR.exe.part
+	/home/leonsch/Downloads/MS Office 2019 Pro Plus Retail x86 x64  MULTi-22 OCT 2018 {Gen2}/ProPlus2019.el-GR.exe.part
+t/home/leonsch/.local/share/vifm/Trash/000_tpo04.mscz
+	/home/leonsch/tpo04.mscz
+t/home/leonsch/.local/share/vifm/Trash/000_tpo04.txt
+	/home/leonsch/tpo04.txt
+t/home/leonsch/.local/share/vifm/Trash/000_plakat6.md
+	/home/leonsch/plakat6.md
+t/home/leonsch/.local/share/vifm/Trash/001_plakat6.md
+	/mnt/plakat6.md
+t/home/leonsch/.local/share/vifm/Trash/000_.tpo04.mscz,
+	/mnt/.tpo04.mscz,
+t/home/leonsch/.local/share/vifm/Trash/000_Studienarbeit_12
+	/mnt/Studienarbeit_12
+t/home/leonsch/.local/share/vifm/Trash/000_tmp
+	/home/leonsch/tmp
+t/home/leonsch/.local/share/vifm/Trash/000_test.aqua
+	/mnt/test.aqua
+t/home/leonsch/.local/share/vifm/Trash/000_tpo04.mid
+	/home/leonsch/schule/musik_projekt/tpo04.mid
+t/home/leonsch/.local/share/vifm/Trash/000_angriff.txt
+	/home/leonsch/angriff.txt
+t/home/leonsch/.local/share/vifm/Trash/000_a.out
+	/home/leonsch/a.out
+t/home/leonsch/.local/share/vifm/Trash/000_tmp.c
+	/home/leonsch/tmp.c
+t/home/leonsch/.local/share/vifm/Trash/000_Musikzeuugs.bin
+	/home/leonsch/Musikzeuugs.bin
+t/home/leonsch/.local/share/vifm/Trash/000_acetone-db
+	/home/leonsch/acetone-db
+t/home/leonsch/.local/share/vifm/Trash/000_ChromaticraftRätsel
+	/home/leonsch/ChromaticraftRätsel
+t/home/leonsch/.local/share/vifm/Trash/000_System Volume Information
+	/home/leonsch/usb_temp/System Volume Information
+t/home/leonsch/.local/share/vifm/Trash/000_VALC
+	/home/leonsch/C++/QT-projects/VALC
+t/home/leonsch/.local/share/vifm/Trash/000_wsim
+	/home/leonsch/eclipse-workspace/wsim
+t/home/leonsch/.local/share/vifm/Trash/000_WendtilatorSimulator.zip
+	/home/leonsch/eclipse-workspace/WendtilatorSimulator.zip
+t/home/leonsch/.local/share/vifm/Trash/000_Undertale.v1.08.GOG
+	/home/leonsch/Downloads/Undertale.v1.08.GOG
+t/home/leonsch/.local/share/vifm/Trash/000_JourneyMap.jar.disabled
+	/home/leonsch/multimc-instances/1.7.10 RotaryCraft/.minecraft/mods/JourneyMap.jar.disabled
+t/home/leonsch/.local/share/vifm/Trash/000_HESIENBERG
+	/home/leonsch/HESIENBERG
+t/home/leonsch/.local/share/vifm/Trash/000_Undertale.v1.08.GOG.rar
+	/home/leonsch/Downloads/Undertale.v1.08.GOG.rar
+t/home/leonsch/.local/share/vifm/Trash/000_addonsu-15.1-arm64-signed.zip
+	/home/leonsch/Downloads/addonsu-15.1-arm64-signed.zip
+t/home/leonsch/.local/share/vifm/Trash/000_dict-de_DE-frami_2017-01-12.oxt
+	/home/leonsch/Downloads/dict-de_DE-frami_2017-01-12.oxt
+t/home/leonsch/.local/share/vifm/Trash/000_lineage-15.1-20190613-UNOFFICIAL-herolte_signed.zip
+	/home/leonsch/Downloads/lineage-15.1-20190613-UNOFFICIAL-herolte_signed.zip
+t/home/leonsch/.local/share/vifm/Trash/000_recovery.img
+	/home/leonsch/Downloads/recovery.img
+t/home/leonsch/.local/share/vifm/Trash/000_twrp-3.3.1-0-herolte.img.tar
+	/home/leonsch/Downloads/twrp-3.3.1-0-herolte.img.tar
+t/home/leonsch/.local/share/vifm/Trash/000_MS Office 2019 Pro Plus Retail x86 x64  MULTi-22 OCT 2018 {Gen2}
+	/home/leonsch/VBoxTransfer/MS Office 2019 Pro Plus Retail x86 x64  MULTi-22 OCT 2018 {Gen2}
+t/home/leonsch/.local/share/vifm/Trash/000_Baba.Is.You.v01.08.2019
+	/home/leonsch/VBoxTransfer/Baba.Is.You.v01.08.2019
+t/home/leonsch/.local/share/vifm/Trash/000_Baba.Is.You.v01.08.2019.rar
+	/home/leonsch/VBoxTransfer/Baba.Is.You.v01.08.2019.rar
+t/home/leonsch/.local/share/vifm/Trash/000_hw.sh
+	/home/leonsch/hw.sh
+t/home/leonsch/.local/share/vifm/Trash/000_Rules
+	/mnt/Rules
+t/home/leonsch/.local/share/vifm/Trash/000_mono_crash.321777e60.0.json
+	/home/leonsch/mono_crash.321777e60.0.json
+t/home/leonsch/.local/share/vifm/Trash/000_mono_crash.321777e60.1.json
+	/home/leonsch/mono_crash.321777e60.1.json
+t/home/leonsch/.local/share/vifm/Trash/000_2019-11-09 21-26-46.mkv
+	/home/leonsch/2019-11-09 21-26-46.mkv
+t/home/leonsch/.local/share/vifm/Trash/000_2019-12-23 15-13-34.mkv
+	/home/leonsch/2019-12-23 15-13-34.mkv
+t/home/leonsch/.local/share/vifm/Trash/000_video-191223-1514-45.mkv
+	/home/leonsch/video-191223-1514-45.mkv
+t/home/leonsch/.local/share/vifm/Trash/000_video-191223-1515-03.mkv
+	/home/leonsch/video-191223-1515-03.mkv
+t/home/leonsch/.local/share/vifm/Trash/000_Test
+	/home/leonsch/Downloads/Test
+t/home/leonsch/.local/share/vifm/Trash/000_Test.zip
+	/home/leonsch/Downloads/Test.zip
+t/home/leonsch/.local/share/vifm/Trash/000_s
+	/home/leonsch/Downloads/s
+t/home/leonsch/.local/share/vifm/Trash/000_s.zip
+	/home/leonsch/Downloads/s.zip
+t/home/leonsch/.local/share/vifm/Trash/000_pic-full-191223-2059-31.png
+	/home/leonsch/pic-full-191223-2059-31.png

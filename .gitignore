@@ -48,6 +48,11 @@
 !.config/user-dirs.dirs
 !.config/vifm/colors/luke.vifm
 !.config/vifm/vifmrc
+!.config/vifm/colors
+!.config/vifm/scripts
+!.config/vifm/vifm-help.txt
+!.config/vifm/vifminfo
+!.config/vifm/vifmshortcuts
 !.config/wall.png
 !.config/zathura/zathurarc
 !.gitignore
