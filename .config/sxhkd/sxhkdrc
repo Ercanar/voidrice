@@ -22,7 +22,7 @@ super + shift + c
 super + shift + e
 	tutorialvids
 super + shift + w
-	$TERMINAL -e w3m duckduckgo.com/lite
+	firefox
 super + shift + g
 	gimp
 
