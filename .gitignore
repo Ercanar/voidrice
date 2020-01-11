@@ -20,6 +20,7 @@
 !.config/getkeys/zathura
 !.config/gtk-2.0/gtkrc-2.0
 !.config/gtk-3.0/settings.ini
+!.config/htop/htoprc
 !.config/i3/config
 !.config/i3blocks/config
 !.config/mimeapps.list

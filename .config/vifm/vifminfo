@@ -14,9 +14,6 @@ l2
 r2
 
 # Left window history (oldest to newest):
-d/home/leonsch
-	Android
-2
 d/home/leonsch/Android
 	SD-Karte
 2
@@ -74,11 +71,11 @@ d/home/leonsch/Android/Interner gemeinsamer Speicher/WhatsApp
 d/home/leonsch/Android/Interner gemeinsamer Speicher/WhatsApp/Media
 	..
 0
+d/home/leonsch
+	Android
+2
 
 # Right window history (oldest to newest):
-D/mnt/Schule in general
-	..
-0
 D/mnt
 	Rules
 5
@@ -136,6 +133,9 @@ D/home/leonsch/Android/SD-Karte/WhatsApp/Media/.Statuses
 D/home/leonsch/Android/SD-Karte/WhatsApp/Media
 	.Statuses
 1
+D/home/leonsch
+	Android
+2
 
 # Command line history (oldest to newest):
 :!mv WendtilatorSimulator/ ..
