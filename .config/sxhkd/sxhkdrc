@@ -35,7 +35,7 @@ ctrl + alt + Delete
 ctrl + alt + space
 	bgchange.sh /home/ercanar/Hintergrund/Anime1/BEST.jpg
 ctrl + alt + s
-	mpv ~/'The Jerk Face Dance-cWsEvVCw92M.opus'
+	mpv ~/"mp3 etc"/'The_Jerk_Face_Dance.opus'
 
  Fix broken <|> key
 @F1
