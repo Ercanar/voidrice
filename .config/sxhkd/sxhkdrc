@@ -1,0 +1,31 @@
+super + i
+	$TERMINAL -e htop
+super + r
+	$TERMINAL -e ranger
+super + w
+	$TERMINAL -e /usr/bin/w3m duckduckgo.com/lite
+super + c
+	discord-canary
+super + shift + w
+	firefox
+super + x
+	xset dpms 0 0 1; lockscreen && xset dpms 0 0 0
+
+super + F9
+	dmenumount
+super + F10
+	dmenuumount
+super + F12
+	$TERMINAL -e nmtui
+
+super + BackSpace
+	prompt "Shutdown?" "sudo -A shutdown -h now"
+super + shift + BackSpace
+	prompt "Reboot?" "sudo -A shutdown -r now"
+super + Escape
+	prompt "Exit xorg?" "pkill xinit"
+
+super + Print
+	maimpick
+Print
+	maim pic-full-"$(date '+%y%m%d-%H%M-%S').png"
