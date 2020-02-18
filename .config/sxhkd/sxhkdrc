@@ -126,10 +126,10 @@ super + {plus,asterisk}
 super + {minus, underscore}
 	lmc down {5,15}
 # Seek foward in song
-super + {_,shift +} bracketright
+super + {_,shift +} udiaeresis
 	lmc forward {10,120}
 # Seek backward in song
-super + {_,shift +} bracketleft
+super + {_,shift +} adiaeresis
 	lmc back {10,120}
 
 # Function keys

@@ -19,6 +19,7 @@ Plug 'bling/vim-airline'
 Plug 'tpope/vim-commentary'
 Plug 'vifm/vifm.vim'
 Plug 'kovetskiy/sxhkd-vim'
+Plug 'ndmitchell/ghcid', { 'rtp': 'plugins/nvim' }
 call plug#end()
 
 set bg=light
