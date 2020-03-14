@@ -7,6 +7,8 @@ if ! filereadable(expand('~/.config/nvim/autoload/plug.vim'))
 	autocmd VimEnter * PlugInstall
 endif
 
+packadd vimball
+
 call plug#begin('~/.config/nvim/plugged')
 Plug 'tpope/vim-surround'
 Plug 'scrooloose/nerdtree'
@@ -42,6 +44,13 @@ inoremap {<CR> {<CR><CR>}<Esc>ki<Tab>
 inoremap /* /*<space><space>*/<Esc>2hi
 inoremap /** /**<space><space>*/<Esc>2hi
 inoremap // //<space>
+
+" Hotkey for tab opening
+nnoremap <C-End> :tabnew<CR>:edit 
+
+" Settings for haskell-mode
+au Bufenter *.hs compiler ghc
+let g:haddock_browser = "/usr/bin/firefox"
 
 " Insert a link to current date (used in my logbook)
 	noremap <leader>l :$read !date -I<CR>V$ypi(<Esc>$a)<Esc>0i<BS>]<Esc>0i[<Esc>

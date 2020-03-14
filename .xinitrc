@@ -12,5 +12,7 @@ sxhkd &
 dwmblocks &
 dunst &
 xcompmgr &
+pulseaudio &
+mpd &
 
 exec dwm-loop

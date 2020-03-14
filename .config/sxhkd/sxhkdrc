@@ -10,13 +10,30 @@ super + shift + w
 	firefox
 super + x
 	xset dpms 0 0 1; lockscreen && xset dpms 0 0 0
+super + shift + x
+	false
+#	xset dpms 0 0 1; i3lock -u -i ".config/wall.png" -n && xset dpms 0 0 0
+super + shift + a
+	$TERMINAL -e pulsemixer
 
+# Music
+super + shift + m
+	$TERMINAL -e ncmpcpp
+super + p
+	mpc toggle
+super + plus
+	pulsemixer --change-volume +5; pkill dwmblocks; dwmblocks &
+super + minus
+	pulsemixer --change-volume -5; pkill dwmblocks; dwmblocks &
+
+super + F3
+	displayselect
 super + F9
 	dmenumount
 super + F10
 	dmenuumount
 super + F12
-	$TERMINAL -e nmtui
+	sudo -A $TERMINAL -e nmtui
 
 super + BackSpace
 	prompt "Shutdown?" "sudo -A shutdown -h now"
@@ -25,7 +42,7 @@ super + shift + BackSpace
 super + Escape
 	prompt "Exit xorg?" "pkill xinit"
 
-super + Print
+shift + Print
 	maimpick
 Print
 	maim pic-full-"$(date '+%y%m%d-%H%M-%S').png"
