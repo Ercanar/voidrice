@@ -149,7 +149,6 @@ getdotfilesbare() {
 	pushd "/home/$name"
 	echo ".dotfiles" | sudo -u "$name" tee -a .gitignore >/dev/null
 	sudo -u "$name" git clone -b "$repobranch" --depth 1 --bare "$dotfilesrepo" ".dotfiles"
-	sudo -u "$name" git --git-dir=".dotfiles" --work-tree=$HOME checkout
 	sudo -u "$name" git --git-dir=".dotfiles" --work-tree=$HOME config --local status.showUntrackedFiles no
 	sudo -u "$name" git --git-dir=".dotfiles" --work-tree=$HOME checkout -f
 	popd
