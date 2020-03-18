@@ -32,6 +32,7 @@ signal=7
 [weather]
 interval=18000
 signal=5
+command=weather Sehlen
 
 [mailbox]
 label=📬

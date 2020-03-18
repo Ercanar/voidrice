@@ -37,13 +37,13 @@ ctrl + alt + space
 ctrl + alt + s
 	mpv ~/"mp3 etc"/'The_Jerk_Face_Dance.opus'
 
- Fix broken <|> key
-@F1
-	xdotool key less
-@F2
-	xdotool key bar
-@F3
-	xdotool key greater
+# Fix broken <|> key
+#@F1
+#	xdotool key less
+#@F2
+#	xdotool key bar
+#@F3
+#	xdotool key greater
 
 # Bluetooth
 super + c
@@ -63,7 +63,7 @@ super + shift + BackSpace
 super + x
 	mpc pause; pauseallmpv; xset dpms 0 0 3; lockscreen.sh && xset dpms 0 0 0
 super + shift + x
-    i3lock -u -i /home/ercanar/Hintergrund/Anime1/BEST.png
+	i3lock -u -i /home/ercanar/Hintergrund/Anime1/BEST.png
 
 
 XF86Launch1

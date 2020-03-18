@@ -11,6 +11,8 @@ application/rss+xml=rss.desktop
 application/vnd.powdertoy.save=powdertoy-tpt-open.desktop
 x-scheme-handler/ptsave=powdertoy-tpt-ptsave.desktop
 x-scheme-handler/discord-386261941259337738=discord-386261941259337738.desktop
+x-scheme-handler/discord-482370205331226644=discord-482370205331226644.desktop
+x-scheme-handler/discord-589393213723246592=discord-589393213723246592.desktop
 
 [Added Associations]
 application/pdf=libreoffice-draw.desktop;
