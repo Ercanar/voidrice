@@ -144,6 +144,16 @@ putgitrepo() { # Downlods a gitrepo $1 and places the files in $2 only overwriti
 	sudo -u "$name" cp -rfT "$dir/gitrepo" "$2"
 	}
 
+getdotfilesbare() {
+	dialog --infobox "Downloading and installing config files..." 4 60
+	pushd "/home/$name"
+	echo ".dotfiles" | sudo -u "$name" tee -a .gitignore >/dev/null
+	sudo -u "$name" git clone -b "$repobranch" --depth 1 --bare "$dotfilesrepo" ".dotfiles"
+	sudo -u "$name" git --git-dir=".dotfiles" --work-tree=$HOME config --local status.showUntrackedFiles no
+	sudo -u "$name" git --git-dir=".dotfiles" --work-tree=$HOME checkout -f
+	popd
+}
+
 systembeepoff() { dialog --infobox "Getting rid of that retarded error beep sound..." 10 50
 	rmmod pcspkr
 	echo "blacklist pcspkr" > /etc/modprobe.d/nobeep.conf ;}
@@ -204,7 +214,8 @@ manualinstall $aurhelper || error "Failed to install AUR helper."
 installationloop
 
 # Install the dotfiles in the user's home directory
-putgitrepo "$dotfilesrepo" "/home/$name" "$repobranch"
+#putgitrepo "$dotfilesrepo" "/home/$name" "$repobranch"
+getdotfilesbare
 rm -f "/home/$name/README.md" "/home/$name/LICENSE"
 
 # Most important command! Get rid of the beep!
